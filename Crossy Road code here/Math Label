@@ -1,0 +1,4 @@
+<form>
+  <label for="3x+2=4x+5">Enter text:</label>
+  <input type="text" id="mytextbox" name="mytextbox">
+</form>
